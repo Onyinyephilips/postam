@@ -1,6 +1,6 @@
 import Footer from '../components/Footer'
 import Nav from '../components/Nav'
-import Cta from '../sections/cta'
+import Cta from '../sections/Cta'
 import Faqsection from '../sections/faq/Faqsection'
 import HeaderFaq from '../sections/faq/HeaderFaq'
 

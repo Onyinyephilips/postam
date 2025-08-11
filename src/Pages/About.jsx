@@ -4,7 +4,7 @@ import AbtCTA from '../sections/about/AbtCTA'
 import Story1 from '../sections/about/Story1'
 import Story2 from '../sections/about/Story2'
 import Values from '../sections/about/Values'
-import Cta from '../sections/cta'
+import Cta from '../sections/Cta'
 
 const About = () => {
   return (

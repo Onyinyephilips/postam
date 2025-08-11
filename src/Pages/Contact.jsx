@@ -1,5 +1,5 @@
 import Nav from "../components/Nav";
-import Cta from "../sections/cta";
+import Cta from "../sections/Cta";
 import Contactus from "../sections/contact/Contactus";
 import Footer from "../components/Footer";
 

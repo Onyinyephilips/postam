@@ -1,6 +1,6 @@
 import Footer from "../components/Footer";
 import NavHome from "../components/NavHome";
-import Cta from "../sections/cta";
+import Cta from "../sections/Cta";
 import Discover from "../sections/home/Discover";
 import Experience from "../sections/home/Experience";
 import Hero from "../sections/home/Hero";
