@@ -21,7 +21,7 @@ const Question = ({faqdata, onClick, isOpen}) => {
         />}</span>
         </div>
 
-        <p className={`text-md mb-5 ease-in-out duration-300 ${isOpen ? "max-h-96 opacity-100" : "max-h-0 opacity-0"}`}>
+        <p className={`text-md mb-5 ease-in-out duration-300 ${isOpen ? "max-h-[750px] opacity-100" : "max-h-0 opacity-0"}`}>
             {faqdata.answer}</p>
     </section>
   )

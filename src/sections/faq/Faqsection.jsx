@@ -13,18 +13,35 @@ const Faqsection = () => {
 
 
   return (
-    <section className=" w-full lg:w-[800px] m-auto py-20 padding-x">
-        <div className="space-y-6">
-            {faqdata.map((d, index) => {
-                return <Question 
-                    key={d.id} 
-                    faqdata={d} 
-                    onClick={() =>showAnswer(index)} 
-                    isOpen = {showSelectedQ === index}/>;
-            })}
+    // <section className=" w-full lg:w-[800px] m-auto py-20 padding-x">
+    //     <div className="space-y-6">
+    //         {faqdata.map((d, index) => {
+    //             return <Question 
+    //                 key={d.id} 
+    //                 faqdata={d} 
+    //                 onClick={() =>showAnswer(index)} 
+    //                 isOpen = {showSelectedQ === index}/>;
+    //         })}
 
-        </div>
-    </section>
+    //     </div>
+    // </section>
+    <section className="w-full lg:w-[800px] m-auto py-20 padding-x">
+  <div className="space-y-6">
+    {faqdata.map((d, index) => (
+      <Question
+        key={d.id}
+        faqdata={{
+          ...d,
+          answer: Array.isArray(d.answer)
+            ? d.answer.map((para, i) => <p key={i} className="mb-3">{para}</p>)
+            : <p>{d.answer}</p>
+        }}
+        onClick={() => showAnswer(index)}
+        isOpen={showSelectedQ === index}
+      />
+    ))}
+  </div>
+</section>
   )
 }
 

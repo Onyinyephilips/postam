@@ -6,7 +6,7 @@ const Discover = () => {
   return (
     <section className="w-full relative bg-light-purple py-20 padding-x">
         <div className="flex flex-col justify-center max-container">
-            <h2 data-aos="fade" data-aos-delay="200"  className='text-center text-[22px] sm:text-[35px] font-bold text-postam-gray mb-7 text-postam-gray leading-[2em] max-sm:leading-none motion-preset-slide-up motion-duration-1000'>Discover a World of Posibilities<br/> with <span className=" relative bg-primary py-4 font-semibold inline-block px-8 rounded-full drop-shadow-[0_4px_4px_rgba(0,0,0,0.4)] text-white -rotate-6 hover:animate-wobble cursor-pointer max-sm:mt-5 leading-none">Postam <img src={cart} className="absolute top-[-85%] left-[60%] max-sm:w-[80%] " /></span> </h2>
+            <h2 data-aos="fade" data-aos-delay="200"  className='text-center text-[22px] sm:text-[35px] font-bold text-postam-gray mb-7 text-postam-gray leading-[2em] max-sm:leading-none motion-preset-slide-up motion-duration-1000'>Discover a World of Possibilities<br/> with <span className=" relative bg-primary py-4 font-semibold inline-block px-8 rounded-full drop-shadow-[0_4px_4px_rgba(0,0,0,0.4)] text-white -rotate-6 hover:animate-wobble cursor-pointer max-sm:mt-5 leading-none">Postam <img src={cart} className="absolute top-[-85%] left-[60%] max-sm:w-[80%] " /></span> </h2>
 
             <div className="flex bg-pale-purple rounded-xl p-12 flex-col lg:flex-row gap-14 max-md:gap-6 max-md:p-5 mt-10 relative">
                 <div className="w-full lg:w-[40%]">

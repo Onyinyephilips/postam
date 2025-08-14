@@ -31,7 +31,7 @@ const Why = () => {
         <div className="max-container">
             <div>
                 <h2 data-aos="fade-up" data-aos-delay="200" className=' text-center text-[22px] sm:text-[35px] font-bold text-postam-gray mb-5 text-postam-gray sm:leading-[1.3em] max-sm:leading-sung motion-preset-slide-up motion-duration-1000'>Why Postam?</h2>
-                    <p data-aos="fade-up" data-aos-delay="400"  className=" text-center text-lg sm:text-xl mt-5 w-full xl:w-[40%]  leading-normal sm:leading-[1.6em] m-auto">We seamlessly merges the convenience of a marketplace with social networking.</p>
+                    <p data-aos="fade-up" data-aos-delay="400"  className=" text-center text-lg sm:text-xl mt-5 w-full xl:w-[40%]  leading-normal sm:leading-[1.6em] m-auto">We seamlessly merge the convenience of a marketplace with social networking.</p>
             </div>
 
             <div data-aos="fade-up" data-aos-delay="400" id="slider" className="mt-10">

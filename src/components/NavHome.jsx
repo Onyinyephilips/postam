@@ -49,7 +49,7 @@ const NavHome = () => {
             
             {/* Desktop Button */}
             <div className='max-lg:hidden -mt-4'>
-          <PrimaryBtn label="Download the app" href="https:google.com" newTab/>
+          <PrimaryBtn label="Download the app" href="https://google.com" newTab/>
         </div>
         
         {/* Mobile Hamburger / Close */}

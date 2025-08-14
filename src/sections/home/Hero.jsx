@@ -12,7 +12,7 @@ const Hero = () => {
             <p data-aos="fade-up" data-aos-delay="400" className='text-white text-lg sm:text-xl mt-4 w-[90%] sm:w-[400px] text-center m-auto leading-[1.7em] sm:leading-8 font-light'>Discover a world of entertainment, convenience and community on Postam.</p>
 
             <div data-aos="fade-up" data-aos-delay="600"  className='flex mt-2 gap-4 justify-center'>
-                <PrimaryBtn label="Get the app" href="https:google.com" newTab/> <SecBtn iconURL={playIcon} label="How it works"/>
+                <PrimaryBtn label="Get the app" href="https://google.com" newTab/> <SecBtn iconURL={playIcon} label="How it works"/>
             </div>
         </div>
     </section>
