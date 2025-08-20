@@ -16,7 +16,7 @@ const Values = () => {
                         alt="arrow-diag"
                     />
                     <h2 className='text-2xl sm:text-3xl font-semibold text-postam-gray'>Convenience</h2>
-                    <p className="text-postam-gray mt-3 sm:leading-[1.5em]">Postam allows you to watch content you enjoy, shop for must-have products, and pay your bills— all in one app. It’s like having a personal assistant in your pocket.
+                    <p className="text-postam-gray mt-3 sm:leading-[1.5em]">Postam allows you to watch content you enjoy, shop for must-have products, and pay your bills all in one app. It is like having a personal assistant in your pocket. 
                         </p>
                 </div>
                  <div className="bg-white px-7 py-14  rounded-xl w-full">
@@ -25,7 +25,7 @@ const Values = () => {
                         alt="arrow-diag"
                     />
                     <h2 className='text-2xl sm:text-3xl font-semibold text-postam-gray'>Efficiency</h2>
-                    <p className="text-postam-gray mt-3 sm:leading-[1.5em]">Our user-friendly design makes it easy to find what you're looking for, whether you’re diving into entertainment or browsing the marketplace
+                    <p className="text-postam-gray mt-3 sm:leading-[1.5em]">Our user-friendly design makes it easy to find what you are looking for, whether you are exploring entertainment or browsing the marketplace. 
                         </p>
                 </div>
                  <div className="bg-white px-7 py-14  rounded-xl w-full">

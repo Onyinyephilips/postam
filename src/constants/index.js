@@ -43,32 +43,33 @@ export const reviews = [
     {
         imgURL: customer1,
         customerName: 'Emily Johnson',
-        feedback: "Postam has become my go-to app for everything fun and exciting. From streaming shows to discovering new music and connecting with people who share my interests, its a one-stop entertainment hub. It feels like a mini world of its own!"
+        feedback: "Postam has quickly become my favorite app for fun and entertainment. I use it to stream shows, discover new music, and even connect with people who enjoy the same things I do. It really feels like a little world of its own, and I love it."
     },
     {
         imgURL: customer2,
         customerName: 'Michael Anderson',
-        feedback: "The Convenience I Didn’t Know I Needed! With Postam, I no longer need multiple apps. Whether it’s catching up on the latest movies, ordering food, or staying in touch with my friends, I can do it all here. It’s so easy to use, and it saves me so much time!"
+        feedback: "Postam is the convenience I never knew I needed. I love that I do not have to jump between different apps anymore. From watching the latest movies to ordering food and staying connected with friends, everything is right here. It is simple, easy to use, and it saves me so much time."
     },
     {
         imgURL: customer3,
         customerName: 'Sophia Martinez',
-        feedback: "A Real Sense of Community Postam has helped me find a place where I belong. From niche communities to local meet-ups, I’ve met incredible people who share my passions. It’s not just an app; it’s a welcoming space for everyone!"
+        feedback: "What I love most about Postam is the sense of community. I have met amazing people through niche groups and local meetups who share the same passions I do. It feels welcoming, not just like another app."
     },
     {
         imgURL: customer2,
         customerName: 'Michael Anderson',
-        feedback: "Postam’s Made Life So Much More Fun! I love how I can discover new things every day. Whether it’s entertainment, food recommendations, or even local events, Postam always has something fresh and fun. It’s like an adventure in an app!"
+        feedback: "Postam has made life so much more fun! I love how I can discover new things every day. Whether it is entertainment, food recommendations, or even local events, Postam always has something fresh and fun. It is like an adventure in an app."
     },
     {
         imgURL: customer3,
         customerName: 'Olivia Wilson',
-        feedback: "Highly Recommend for Anyone Wanting More Convenience! Postam combines everything I love: streaming, shopping, and community engagement. I’ve deleted so many other apps because Postam has it all. Highly recommend it for anyone who values convenience ."
+        feedback: "Highly recommended for anyone wanting more convenience. Postam combines everything I love: streaming, shopping, and community engagement. I even deleted a bunch of other apps because Postam does it all. If you want more convenience in your everyday life, I truly recommend it."
     },
+    
     {
-        imgURL: customer3,
-        customerName: 'Olivia Wilson',
-        feedback: "Highly Recommend for Anyone Wanting More Convenience! Postam combines everything I love: streaming, shopping, and community engagement. I’ve deleted so many other apps because Postam has it all. Highly recommend it for anyone who values convenience ."
+        imgURL: customer2,
+        customerName: 'Smitt Merit',
+        feedback: "Postam adds excitement to my everyday life! I’m constantly finding something new, whether it’s a cool movie to watch, a hidden gem of a restaurant, or a fun event happening nearby. It’s like having a personal guide to the best stuff around. I never know what I’ll discover next!"
     },
     
 ];

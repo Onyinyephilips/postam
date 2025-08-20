@@ -6,13 +6,13 @@ const Contactus = () => {
         className='w-full bg-white flex flex-col justify-center items-center pb-20'>
             <div className='w-full min-h-[350px] sm:min-h-[400px] bg-light-purple bg-pattern bg-cover bg-center flex flex-col justify-center padding-x'>
                 <h1 className='text-center text-3xl sm:text-4xl font-bold text-postam-gray'>Contact Us</h1>
-                <p className='text-center text-lg sm:text-xl mt-3'>Have questions or Remarks, Just drop a message!</p>
+                <p className='text-center text-lg sm:text-xl mt-3'>Have questions or feedback? Drop us a message.</p>
             </div>
 
             <div className="bg-white rounded-xl max-container -mt-20 p-8 max-sm:p-3 flex gap-7 flex-col lg:flex-row w-[80%] shadow-lg">
                 <div className="bg-primary rounded-xl p-7 w-2/4 max-lg:w-full text-white">
                     <h2 className="text-2xl font-semibold text-white">Contact Information</h2>
-                    <p className="text-white mt-3">Fill up the form and our team will get back to you within 24hours.</p>
+                    <p className="text-white mt-3">Fill out the form and our team will get back to you within 24 hours.</p>
 
                     <div className="mt-20 flex gap-3">
                         <img 
@@ -33,7 +33,7 @@ const Contactus = () => {
                 </div>
                 <div className="w-full">
                     <h2 className='text-2xl sm:text-3xl font-bold text-postam-gray'>Reach out to us</h2>
-                     <p className="text-postam-gray mt-3">Please enter your details and we’ll get back to you within few minutes</p>
+                     <p className="text-postam-gray mt-3">Please enter your details and our team will reach out to you.</p>
                      <form className="mt-6 flex flex-col gap-6">
                         <div className="flex gap-4 flex-col md:flex-row">
                             <input className="h-14 border-2 border-[#D6D6D6] w-full p-3 bg-[#F8F8F8]" type="text" placeholder="First Name*" required/>

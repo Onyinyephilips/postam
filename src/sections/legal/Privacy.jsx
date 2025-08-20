@@ -7,10 +7,10 @@ const Privacy = () => {
             <h1 className='text-2xl sm:text-3xl font-bold text-postam-gray'>Privacy Policy</h1>
             <p><span className='font-bold block mt-2'>1. Information We Collect</span>We collect the following types of information:</p>
             <ul className="list-disc pl-5">
-                <li>Personal Information: such as name, email, and phone number when you sign up.</li>
-                <li>Payment Information: for transactions like bill payments and shopping.</li>
-                <li>Usage Data: including your activity on the app, features used, and device type.</li>
-                <li>Location Data: with your permission, to enhance app functionality.</li>
+                <li>Personal Information: such as your name, email address, and phone number when you create an account.</li>
+                <li>Payment Information: for transactions including bill payments and shopping.</li>
+                <li>Usage Data: such as your activity within the app, features you use, and device type.</li>
+                <li>Location Data: with your permission, to improve app functionality.</li>
             </ul>
 
             <p><span className='font-bold block mt-7'>2. How We Use Your Information</span>We use the information to:</p>

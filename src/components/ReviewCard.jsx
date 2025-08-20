@@ -8,7 +8,7 @@ const ReviewCard = ({imgURL, customerName, feedback}) => {
         </div>
         <div className="w-[90%]">
             <h3 className="text-postam-gray text-lg font-semibold">{customerName}</h3>
-            <p>{feedback}</p>
+            <p className="mt-2">{feedback}</p>
         </div>
     </div>
   )

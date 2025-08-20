@@ -34,7 +34,7 @@ const Discover = () => {
 
                 <div className="pt-10 px-8 max-sm:px-5 bg-primary rounded-xl bg-pattern2 bg-cover bg-center flex flex-col w-full justify-between overflow-hidden">
                     <h2 className='text-white text-2xl sm:text-3xl font-bold text-postam-gray sm:leading-[1.3em] max-sm:leading-sung motion-preset-slide-up motion-duration-1000'>Fast and Simple Bill Payments  </h2>
-                    <p className="text-lg sm:text-xl mt-5 w-full xl:w-[85%] leading-normal sm:leading-[1.6em] text-white">Pay for electricity, data, and more in seconds, directly on Postam.</p>
+                    <p className="text-lg sm:text-xl mt-5 w-full xl:w-[85%] leading-normal sm:leading-[1.6em] text-white">Pay for electricity, data, and more within seconds, directly on Postam.</p>
                     <img data-aos="fade-up" data-aos-delay="200" src={DiscoverImg2}
                         className="self-end mt-4 lg:w-[50%] "
                     />
@@ -44,7 +44,7 @@ const Discover = () => {
             <div className="flex bg-pale-purple rounded-xl px-12 pt-12 flex-col lg:flex-row gap-24 max-md:gap-6 max-md:px-5 max-md:pt-5 mt-10 relative overflow-hidden">
                 <div className="w-full lg:w-[40%]">
                     <h2 data-aos="fade-up" data-aos-delay="200" className='text-2xl sm:text-3xl font-bold text-postam-gray mb-5 mt-2 text-postam-gray sm:leading-[1.3em] max-sm:leading-sung motion-preset-slide-up motion-duration-1000'>24/7 Marketplace </h2>
-                    <p data-aos="fade-up" data-aos-delay="400" className="text-lg sm:text-xl mt-5 w-full xl:w-[85%]  leading-normal sm:leading-[1.6em]">Discover products you love and enjoy secure, seamless transactions without leaving the app.</p>
+                    <p data-aos="fade-up" data-aos-delay="400" className="text-lg sm:text-xl mt-5 w-full xl:w-[85%]  leading-normal sm:leading-[1.6em]">Discover products you will love and enjoy secure, seamless transactions all without leaving the app</p>
                     <div data-aos="fade-up" data-aos-delay="400" className="flex "><PrimaryBtn label="Get the app" href="https:google.com" newTab /></div>
                      
                 </div>

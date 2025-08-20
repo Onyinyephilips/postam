@@ -34,8 +34,7 @@ const Story2 = () => {
                  <div className="bg-white w-full rounded-xl flex flex-col justify-between overflow-hidden">
                     <div className="p-7">
                         <h2 className='text-2xl sm:text-3xl font-semibold text-postam-gray'>Our Vision</h2>
-                        <p className="text-postam-gray mt-3 sm:leading-[1.5em]">To become the go-to app for Nigerians who value convenience, offering a seamless and personalized user experience that exceeds expectations.
-                        </p>
+                        <p className="text-postam-gray mt-3 sm:leading-[1.5em]">To become the go-to app for everyone who values convenience, offering a seamless and personalized user experience that exceeds expectations.</p>
                     </div>
                     <img 
                         src={vision}

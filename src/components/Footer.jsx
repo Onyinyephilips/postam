@@ -26,7 +26,7 @@ const Footer = () => {
                     </div>
                   ))}
                 
-                <p className="mt-10 -mb-4 text-postam-gray text-lg font-light sm:leading-[1.5em]">Download now on::</p>
+                <p className="mt-10 -mb-4 text-postam-gray text-lg font-light sm:leading-[1.5em]">Download now on:</p>
                 <div className='flex mt-2 gap-4 justify-start'>
                 <DownloadBtn iconURL={playstore} label="Play store" href="https:google.com" newTab/> <DownloadBtn iconURL={apple} label="App store" href="https:google.com" newTab/>
             </div>
@@ -53,8 +53,8 @@ const Footer = () => {
         <div id="subscribe" className="py-10 border-t-2 border-b-2 mt-10">
             <div className="max-container flex justify-between items-center gap-7 md:gap-38 max-md:flex-col">
               
-              <div className="w-full md:w-[50%]"><h2 className=' text-2xl sm:text-3xl font-bold text-postam-gray mb-2 text-postam-gray sm:leading-[1.3em] max-sm:leading-sung'>Join Our Newsletter</h2>
-              <p className="text-lg  w-full  leading-normal sm:leading-[1.6em]">Subscribe to Newsletter, let’s unlock your fullest potential. </p>
+              <div className="w-full md:w-[50%]"><h2 className=' text-2xl sm:text-3xl font-bold text-postam-gray mb-2 text-postam-gray sm:leading-[1.3em] max-sm:leading-sung'>Join our newsletter</h2>
+              <p className="text-lg  w-full  leading-normal sm:leading-[1.6em]">Subscribe to stay updated with the latest news, tips, and opportunities to reach your full potential.</p>
               </div>
             
             <div className="w-full md:w-[50%]">
