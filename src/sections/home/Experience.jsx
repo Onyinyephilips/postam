@@ -5,7 +5,7 @@ import { ExperienceImg, ExperienceImg2 } from '../../assets/images'
 
 const Experience = () => {
   return (
-    <section className='padding-x w-full'>
+    <section className='padding-x w-full overflow-hidden'>
         <div className='py-14 max-container flex flex-col items-center'>
             <div className="flex flex-col justify-center max-container">
                 <h2 className='text-center text-[22px] sm:text-[35px] font-bold text-postam-gray mb-2 text-postam-gray leading-[2.0em] max-sm:leading-sung motion-preset-slide-up motion-duration-1000 md:w-[80%] m-auto'> <span className=" relative bg-[#FF4BA2] py-4 font-semibold inline-block px-8 rounded-full drop-shadow-[0_4px_4px_rgba(0,0,0,0.4)] text-white -rotate-6 hover:animate-wobble cursor-pointer max-sm:mt-5 leading-none">Connections</span> with Tailored Experience </h2>

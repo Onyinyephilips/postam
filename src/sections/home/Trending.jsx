@@ -5,7 +5,7 @@ import {trending } from "../../constants"
 
 const TrendCard = ({title, hashtag, postcount, top}) => {
   return (
-    <div  data-aos="fade-up" data-aos-delay="300" className='flex gap-x-2 gap-y-14 max-sm:py-0'>
+    <div  data-aos="fade-up" data-aos-delay="300" className='flex gap-x-2 gap-y-14 max-sm:py-0 overflow-hidden'>
         <div className='w-[10%]'>
            <h2 className="text-2xl font-semibold text-gray-400">{top}</h2>
         </div>

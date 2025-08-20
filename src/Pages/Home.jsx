@@ -12,7 +12,7 @@ import Why from "../sections/home/Why";
 import Works from "../sections/home/Works";
 
 const App = () => (
-  <main className="relative">
+  <main className="relative overflow-x-hidden">
     <NavHome />
     <Hero />
     <Discover />

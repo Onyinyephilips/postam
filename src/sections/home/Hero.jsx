@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <section 
     id='home'
-    className='w-full min-h-screen bg-hero-mobile sm:bg-hero bg-cover bg-center flex flex-col justify-center items-center'>
+    className='w-full min-h-screen bg-hero-mobile sm:bg-hero bg-cover bg-center flex flex-col justify-center items-center overflow-hidden'>
         <div className='relative mb-40'>
             <h1 data-aos="fade-up" data-aos-delay="200" className='text-center text-[34px] sm:text-[65px] font-bold bg-gradient-to-r from-white to-gray-500 bg-clip-text text-transparent leading-snug '> Your All-in-One <br/>Lifestyle App </h1>
             <p data-aos="fade-up" data-aos-delay="400" className='text-white text-lg sm:text-xl mt-4 w-[90%] sm:w-[400px] text-center m-auto leading-[1.7em] sm:leading-8 font-light'>Discover a world of entertainment, convenience and community on Postam.</p>
