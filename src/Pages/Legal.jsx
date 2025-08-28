@@ -10,7 +10,6 @@ const Legal = () => (
     <Nav />
     <Header />
     <Privacy />
-    <Terms />
     <Cta />
     <Footer />
   </main>

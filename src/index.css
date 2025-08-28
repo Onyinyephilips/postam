@@ -14,7 +14,14 @@
   color: #101010;
   /* color-scheme: dark; */
 }
-
+.font-bold {
+  scroll-margin-top: 40px; 
+}
+@media(max-width:768px){
+  .font-bold {
+  scroll-margin-top: 70px; 
+}
+}
 @layer components {
   .max-container {
     max-width: 1440px;
