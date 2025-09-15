@@ -182,7 +182,7 @@ const Privacy = () => {
         <p className="mt-7">
           <span className="font-bold block">8. Contact Us</span>
           Have questions? Reach us at{" "}
-          <a className="text-primary" href="mailto:getsupport@postam.com">
+          <a className="text-primary" href="mailto:support@getpostam.com">
             support@getpostam.com
           </a>
         </p>
