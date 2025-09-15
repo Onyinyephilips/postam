@@ -19,7 +19,7 @@ const Footer = () => {
                       <ul className="mt-5">
                         {section.links.map((item, linkIndex) => (
                           <li key={linkIndex}>
-                            <a href={item.link}>{item.name}</a>
+                            <a className="hover:text-primary cursor-pointer" href={item.link}>{item.name}</a>
                           </li>
                         ))}
                       </ul>

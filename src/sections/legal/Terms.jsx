@@ -43,7 +43,7 @@ const Terms = () => {
 
             <p><span className='font-bold block mt-7'>7. Changes to This Policy</span>We may update this Privacy Policy occasionally. We’ll notify you of significant changes via the app or email.</p>
 
-            <p><span className='font-bold block mt-7'>8. Contact Us</span>Have questions? Reach us at <a className='text-primary' href='mailto:support@postam.app'>support@postam.app</a></p>
+            <p><span className='font-bold block mt-7'>8. Contact U55s</span>Have questions? Reach us at <a className='text-primary' href='mailto:support@getpostam.app'>support@getpostam.app</a></p>
           
         </div>
         

@@ -31,7 +31,7 @@ export const footerLinks = [
 export const footerContact = [{
         title: "Contact Details",
         links: [
-            { name: "Email: support@postam.com", link: "mailto:support@postam.com" },
+            { name: "Email: support@getpostam.com", link: "mailto:support@getpostam.com" },
             { name: "Phone: +234 890 3823 123", link: "tel:+2348903823123" },
             { name: "Address: 456 Dro Street, Connect City, TX", link: "/" },
         ],

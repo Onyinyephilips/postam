@@ -182,8 +182,8 @@ const Privacy = () => {
         <p className="mt-7">
           <span className="font-bold block">8. Contact Us</span>
           Have questions? Reach us at{" "}
-          <a className="text-primary" href="mailto:support@postam.app">
-            support@postam.app
+          <a className="text-primary" href="mailto:getsupport@postam.com">
+            support@getpostam.com
           </a>
         </p>
        
@@ -279,7 +279,7 @@ const Privacy = () => {
 
             <p><span className='font-bold block mt-7'>14. Governing Law</span>These Terms are governed by the laws of the Federal Republic of Nigeria. Disputes may be settled through arbitration or local courts, depending on jurisdiction.</p>
 
-            <p><span className='font-bold block mt-7'>15. Contact</span>For questions, support, or complaints, please contact us at: <a className='text-primary' href='mailto:support@postam.app'>support@postam.app</a></p>
+            <p><span className='font-bold block mt-7'>15. Contact</span>For questions, support, or complaints, please contact us at: <a className='text-primary' href='mailto:support@getpostam.com'>support@getpostam.com</a></p>
           
       </div>
     </section>
